@@ -1157,10 +1157,10 @@
 	</Style>
 	<Folder id="0B262B98CF1EF4BAC0E9">
 		<name>Puntos de Referencia</name>
-		<visibility>0</visibility>
+		<visibility>1</visibility>
 		<Placemark>
 			<name>Taller Tandem</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.547877199356,-70.3914289737723</description>
 			<styleUrl>#icon-1899-0288D1100</styleUrl>
 			<Point>
@@ -1169,7 +1169,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Complejo</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.69836934380102,-70.4176674494969</description>
 			<styleUrl>#icon-1899-0288D1100</styleUrl>
 			<Point>
@@ -1179,10 +1179,10 @@
 	</Folder>
 	<Folder id="1E847CBC111EF4BAC0E9">
 		<name>pasajeros M1_ruta_1</name>
-		<visibility>0</visibility>
+		<visibility>1</visibility>
 		<Placemark id="0FAE8D8CB01EF4BC3B04">
 			<name>15018609-9</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.55239386821597,-70.39302452218472</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1191,7 +1191,7 @@
 		</Placemark>
 		<Placemark id="1390D8AD461EF4BC3B04">
 			<name>13463018-3</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.55239317242006,-70.39301980866877</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1200,7 +1200,7 @@
 		</Placemark>
 		<Placemark id="2E0038C9861EF4BC3B04">
 			<name>18233872-9</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.55429886429498,-70.39576383554886</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1209,7 +1209,7 @@
 		</Placemark>
 		<Placemark id="3B017E62731EF4BC3B04">
 			<name>15691739-7</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.55548283234145,-70.39554757685994</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1218,7 +1218,7 @@
 		</Placemark>
 		<Placemark id="0FC9CA5C4F1EF4BC3B05">
 			<name>11820854-4</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.55548278046435,-70.39554678176681</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1227,7 +1227,7 @@
 		</Placemark>
 		<Placemark id="1A1DE3A07A1EF4BC3B05">
 			<name>9104133-2</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.55548508724798,-70.39554822409251</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1236,7 +1236,7 @@
 		</Placemark>
 		<Placemark id="2923B3E9DE1EF4BC3B05">
 			<name>15026490-1</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.55724281846517,-70.39537936420011</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1245,7 +1245,7 @@
 		</Placemark>
 		<Placemark id="3C6A968E891EF4BC3B05">
 			<name>11931714-3</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.56042638598173,-70.39508409668865</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1254,7 +1254,7 @@
 		</Placemark>
 		<Placemark id="4198012CD81EF4BC3B05">
 			<name>11405603-0</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.56044676053214,-70.39509137748212</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1263,7 +1263,7 @@
 		</Placemark>
 		<Placemark id="5C6398D8041EF4BC3B05">
 			<name>15500134-9</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.56231273143002,-70.39495216664001</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1272,7 +1272,7 @@
 		</Placemark>
 		<Placemark id="633E8076A31EF4BC3B05">
 			<name>16927133-K</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.56233295610521,-70.3949625173654</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1281,7 +1281,7 @@
 		</Placemark>
 		<Placemark id="048C025A741EF4BC3B06">
 			<name>9069560-6</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.5594515756448,-70.39961793529265</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1290,7 +1290,7 @@
 		</Placemark>
 		<Placemark id="158BFCC2A71EF4BC3B06">
 			<name>8635560-4</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.55945606231802,-70.39960731173213</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1299,7 +1299,7 @@
 		</Placemark>
 		<Placemark id="2A274CEB1A1EF4BC3B06">
 			<name>12142722-2</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.56067487483481,-70.39719653185799</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1308,7 +1308,7 @@
 		</Placemark>
 		<Placemark id="3004CCEBD11EF4BC3B06">
 			<name>17435398-0</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.56401149864051,-70.39885953184712</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1317,7 +1317,7 @@
 		</Placemark>
 		<Placemark id="49671BD8271EF4BC3B06">
 			<name>17554160-8</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.56615410991251,-70.39772254292035</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1326,7 +1326,7 @@
 		</Placemark>
 		<Placemark id="547EB0E94E1EF4BC3B06">
 			<name>13871199-4</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.56615379356524,-70.39771570273946</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1335,7 +1335,7 @@
 		</Placemark>
 		<Placemark id="04E6484B481EF4BC3B07">
 			<name>11720011-6</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.5661323279615,-70.39699173182635</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1344,7 +1344,7 @@
 		</Placemark>
 		<Placemark id="10441BA5AD1EF4BC3B07">
 			<name>17734804-K</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.57146939131741,-70.39286964495149</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1353,7 +1353,7 @@
 		</Placemark>
 		<Placemark id="28917018761EF4BC3B07">
 			<name>16133518-5</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.57146892847794,-70.39287540263574</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1362,7 +1362,7 @@
 		</Placemark>
 		<Placemark id="3A4509AC701EF4BC3B07">
 			<name>14488400-0</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.57147062695216,-70.39287186685353</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1371,7 +1371,7 @@
 		</Placemark>
 		<Placemark id="477583CAAD1EF4BC3B07">
 			<name>12395410-6</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.57146983102714,-70.39287418526996</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1380,7 +1380,7 @@
 		</Placemark>
 		<Placemark id="5ECBAC316D1EF4BC3B07">
 			<name>10211555-4</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.57146781268028,-70.39287441790125</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1389,7 +1389,7 @@
 		</Placemark>
 		<Placemark id="07DE043BAA1EF4BC3B08">
 			<name>10496992-5</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.58411327677854,-70.39177732770511</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1398,7 +1398,7 @@
 		</Placemark>
 		<Placemark id="1D51BEEC041EF4BC3B08">
 			<name>16232688-0</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.58411230530965,-70.39177741298785</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
@@ -1407,7 +1407,7 @@
 		</Placemark>
 		<Placemark id="23F5759C091EF4BC3B08">
 			<name>8953107-1</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<description>-23.5841129554825,-70.39177382598481</description>
 			<styleUrl>#icon-1899-0288D170</styleUrl>
 			<Point>
