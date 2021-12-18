@@ -1,0 +1,1294 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>Rutas Revisadas Tandem a 41 pax</name>
+    <open>1</open>
+    <StyleMap id="line-FF0000-40007">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-4000-normal8</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-4000-highlight3</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-highlight01">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_12.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal9">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_12.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-highlight9">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight9">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_12.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-normal10">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D17">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal02</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight9</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-01579B-4000-normal0">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-01579B-40000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-01579B-4000-normal0</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-01579B-4000-highlight0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0000FF-4000-highlight7">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0000FF-4000-normal6">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0000FF-40008">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0000FF-4000-normal6</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0000FF-4000-highlight7</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-highlight02">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_11.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal10">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_11.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="line-FF0000-4000-highlight9">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-4000-normal4">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF0000-40006">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-4000-normal4</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-4000-highlight9</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal02">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_12.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight12">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_11.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-highlight6">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-normal5">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight8">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_11.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal00">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_11.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D18">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal00</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight8</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1899-0288D102">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal9</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight01</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-0000FF-40005">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0000FF-4000-normal5</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0000FF-4000-highlight5</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1899-0288D100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal8</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight12</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal010">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_01.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="line-FF0000-4000-highlight7">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-4000-normal7">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight0">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-3_1.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal000">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_01.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-normal0">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-3_1.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-highlight8">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-4000-normal5">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal6">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_9.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="line-FF00FF-400010">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF00FF-4000-normal8</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF00FF-4000-highlight8</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-highlight0">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-2_2.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <StyleMap id="line-FF0000-40003">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-4000-normal3</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-4000-highlight11</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1899-0288D103">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal01</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight11</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal0">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-2_2.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-highlight00">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_9.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF52520">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal0</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1899-0288D19">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal6</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight00</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0000FF-4000-highlight6">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D110">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal10</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight02</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-highlight11">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_01.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight6">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_01.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal01">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_01.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="line-FF0000-4000-highlight6">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D101">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal010</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight20</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-FF0000-40004">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-4000-normal10</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-4000-highlight6</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-FF00FF-40006">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF00FF-4000-normal6</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF00FF-4000-highlight5</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF0000-4000-normal3">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight7">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_10.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight70">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_8.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal7">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_10.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="line-0000FF-4000-highlight2">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-4000-highlight5">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal100</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight200</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF0000-4000-normal6">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0000FF-4000-normal4">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-normal8">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF0000-40008">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-4000-normal6</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-4000-highlight5</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1899-0288D16">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal7</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight7</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1899-0288D160">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal60</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight70</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF00FF-4000-highlight10">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0000FF-40003">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0000FF-4000-normal8</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0000FF-4000-highlight2</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-highlight20">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_01.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-normal3">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF0000-400010">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-4000-normal5</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-4000-highlight4</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-FF00FF-40008">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF00FF-4000-normal3</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF00FF-4000-highlight10</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-3.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="line-0000FF-4000-highlight3">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0000FF-4000-normal3">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0000FF-40004">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0000FF-4000-normal10</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0000FF-4000-highlight6</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0000FF-4000-highlight1">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-4000-highlight4">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal8">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_11.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="line-FF00FF-4000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF00FF-4000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF00FF-4000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1899-0288D1001">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal000</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight6</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal00">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-2_0.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF525200">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal00</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight1</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0000FF-4000-normal5">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-4000-normal10">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-4000-normal8">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0000FF-4000-highlight4">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-3.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal60">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_8.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal001</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight30</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal1">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="line-0000FF-4000-normal8">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-normal7">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF00FF-40009">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF00FF-4000-normal7</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF00FF-4000-highlight4</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0000FF-4000-normal10">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D170">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal20</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight10</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-FF00FF-40007">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF00FF-4000-normal9</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF00FF-4000-highlight7</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-highlight00">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-highlight4">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF00FF-400040">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF00FF-4000-normal5</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF00FF-4000-highlight6</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0000FF-4000-normal1">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-normal6">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight1">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-2_0.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <StyleMap id="line-0000FF-40002">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0000FF-4000-normal4</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0000FF-4000-highlight4</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-highlight30">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_1.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight60">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="line-FF0000-4000-highlight3">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0000FF-40006">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0000FF-4000-normal3</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0000FF-4000-highlight3</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal20">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_2.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal30">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D120">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal30</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight60</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF0000-4000-highlight10">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-4000-normal9">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-4000-highlight8">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal0</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0000FF-4000-highlight5">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight10">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_2.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <StyleMap id="line-FF0000-40005">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-4000-normal9</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-4000-highlight10</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0000FF-4000-normal7">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF00FF-40003">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF00FF-4000-normal10</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF00FF-4000-highlight9</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1899-FF525201">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal1</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight00</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF00FF-4000-highlight7">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-highlight5">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-normal9">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF0000-400012">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-4000-normal7</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-4000-highlight7</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0000FF-4000-highlight8">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal001">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_1.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-highlight">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-4000-normal30">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-01579B-4000-highlight0">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0000FF-40001">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0000FF-4000-normal1</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0000FF-4000-highlight1</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF0000-4000-highlight11">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF0000-40009">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-4000-normal30</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-4000-highlight8</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-highlight200">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_3.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="line-FF00FF-4000-normal">
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal100">
+      <IconStyle>
+        <Icon>
+          <href>files/icon-1_3.png</href>
+        </Icon>
+        <hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="line-0000FF-400010">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0000FF-4000-normal7</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0000FF-4000-highlight8</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder id="16C482C0591F026C5847">
+      <name>ruta P1_ruta_2</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <name>Ruta P1_ruta_2-0</name>
+        <visibility>1</visibility>
+        <description>Tramo 0</description>
+        <styleUrl>#line-FF0000-40004</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+					-70.39157,-23.54788,0 -70.39164,-23.54703,0 -70.39175,-23.5461,0 -70.3918,-23.54552,0 -70.39185000000001,-23.54537,0 -70.39182,-23.54529,0 -70.3918,-23.54513,0 -70.39185000000001,-23.54498,0 -70.39192,-23.5449,0 -70.39205,-23.54481,0 -70.39218,-23.54478,0 -70.39237,-23.5448,0 -70.39247,-23.54485,0 -70.39257000000001,-23.54495,0 -70.39264,-23.54507,0 -70.39265,-23.5452,0 -70.39261999999999,-23.54532,0 -70.39257000000001,-23.54539,0 -70.3925,-23.54547,0 -70.39238,-23.54553,0 -70.39233,-23.54555,0 -70.3922,-23.54556,0 -70.39212000000001,-23.54555,0 -70.39194999999999,-23.54572,0 -70.39190000000001,-23.54582,0 -70.39185999999999,-23.54606,0 -70.39176,-23.5468,0 -70.39171,-23.54726,0 -70.39164,-23.5482,0 -70.39149999999999,-23.55141,0 -70.39142,-23.55373,0 -70.39136000000001,-23.55532,0 -70.39136000000001,-23.55544,0 -70.3917,-23.55543,0 -70.39239000000001,-23.55545,0 -70.39333999999999,-23.5555,0 -70.39546,-23.55554,0 -70.39557000000001,-23.55555,0 
+				</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ruta P1_ruta_2-0</name>
+        <visibility>1</visibility>
+        <description>Tramo 1</description>
+        <styleUrl>#line-FF0000-40004</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+					-70.39557000000001,-23.55555,0 -70.39601999999999,-23.55558,0 -70.3965,-23.55554,0 -70.39681,-23.55547,0 -70.39718999999999,-23.55534,0 -70.39755,-23.55514,0 -70.39854,-23.55427999999999,0 -70.39861999999999,-23.55421,0 -70.39867,-23.55427999999999,0 -70.39973000000001,-23.55537,0 -70.40009000000001,-23.55573,0 -70.40024,-23.55591,0 -70.40035,-23.55607,0 -70.40047,-23.55631,0 -70.40056,-23.55654,0 -70.40063000000001,-23.55683,0 -70.40064,-23.55713,0 -70.40063000000001,-23.55731,0 -70.40058000000001,-23.55755,0 -70.40051,-23.55783,0 -70.40039,-23.55808,0 -70.39976,-23.55913,0 -70.39884000000001,-23.56081,0 -70.39872,-23.56187,0 -70.39863,-23.56267,0 -70.39861999999999,-23.56278,0 -70.39851,-23.56278,0 -70.39664,-23.56262,0 -70.39595,-23.56254,0 -70.39491,-23.56246000000001,0 
+				</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ruta P1_ruta_2-0</name>
+        <visibility>1</visibility>
+        <description>Tramo 2</description>
+        <styleUrl>#line-FF0000-40004</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+					-70.39491,-23.56246000000001,0 -70.39463000000001,-23.56247,0 -70.39449999999999,-23.56249,0 -70.39421,-23.5625,0 -70.39343,-23.56242,0 -70.39288000000001,-23.56239,0 -70.39115,-23.56234,0 -70.39111,-23.56354,0 -70.39100000000001,-23.56506,0 -70.39100000000001,-23.5651,0 -70.39099,-23.565129,0 -70.391046,-23.565127,0 -70.391115,-23.565123,0 -70.391358,-23.565152,0 -70.391808,-23.565194,0 -70.391887,-23.56522500000001,0 -70.392268,-23.565267,0 -70.39236,-23.565292,0 -70.392538,-23.565376,0 -70.39287,-23.56561,0 
+				</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ruta P1_ruta_2-0</name>
+        <visibility>1</visibility>
+        <description>Tramo 4</description>
+        <styleUrl>#line-FF0000-40004</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+					-70.39287,-23.56561,0 -70.39297000000001,-23.56553,0 -70.3931,-23.56548,0 -70.39333999999999,-23.56548,0 -70.39491,-23.56563,0 -70.39515,-23.56568,0 -70.39525,-23.56576,0 -70.39532,-23.56585,0 -70.39538,-23.56598,0 -70.39543999999999,-23.56603,0 -70.39628999999999,-23.56611,0 -70.39743,-23.5662,0 -70.39776999999999,-23.56621000000001,0 -70.39801,-23.56626,0 -70.39791,-23.5667,0 -70.39757,-23.56864,0 -70.39753,-23.56893,0 -70.39752,-23.56937,0 -70.39749999999999,-23.57007,0 -70.39746,-23.5704,0 -70.39718999999999,-23.57177,0 -70.39711,-23.57199,0 -70.39691999999999,-23.57242,0 -70.39671,-23.57283,0 -70.39471,-23.57567,0 -70.39333000000001,-23.57764,0 -70.39212999999999,-23.57929,0 -70.39199000000001,-23.57957,0 -70.39194000000001,-23.57983,0 -70.39193,-23.58003,0 -70.39197,-23.58029,0 -70.39216999999999,-23.58082,0 -70.39288999999999,-23.58236,0 -70.39318,-23.58306,0 -70.39333000000001,-23.58356,0 -70.39336,-23.5838,0 -70.39337999999999,-23.58408,0 -70.39337999999999,-23.58417,0 -70.39327,-23.58417,0 -70.3926,-23.58415,0 -70.39216,-23.58413,0 -70.39207,-23.58412,0 
+				</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ruta P1_ruta_2-0</name>
+        <visibility>1</visibility>
+        <description>Tramo 5</description>
+        <styleUrl>#line-FF0000-40004</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+					-70.39207,-23.58412,0 -70.39086,-23.58401,0 -70.39037999999999,-23.58398,0 -70.39033999999999,-23.58459,0 -70.3901,-23.58731,0 -70.39005,-23.58804,0 -70.38983,-23.59084,0 -70.38976,-23.59165,0 -70.38982,-23.59169,0 
+				</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ruta P1_ruta_2-0</name>
+        <visibility>1</visibility>
+        <description>Tramo 6</description>
+        <styleUrl>#line-FF0000-40004</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+					-70.38982,-23.59169,0 -70.38996,-23.59181,0 -70.39003,-23.59185,0 -70.39015999999999,-23.5919,0 -70.39028,-23.59192,0 -70.39035,-23.59189,0 -70.39055,-23.59179,0 -70.39073,-23.59173,0 -70.39085,-23.59171,0 -70.39279000000001,-23.59184,0 -70.39328,-23.5919,0 -70.39431,-23.59198,0 -70.39463000000001,-23.59201,0 -70.39487,-23.59199,0 -70.39565,-23.59177,0 -70.39609,-23.59162999999999,0 -70.39628999999999,-23.59154,0 -70.39635,-23.59152,0 -70.39644,-23.5915,0 -70.39646999999999,-23.59149,0 -70.39662,-23.59155,0 -70.39696000000001,-23.59224,0 -70.39709000000001,-23.59253,0 -70.39715,-23.59275,0 -70.39718000000001,-23.59294,0 -70.39718000000001,-23.59322,0 -70.39713999999999,-23.59413,0 -70.39709999999999,-23.5946,0 -70.39707,-23.59479,0 -70.39694,-23.59511,0 -70.39681,-23.59535,0 -70.39657,-23.59569,0 -70.39621,-23.5961,0 -70.39466,-23.59785,0 -70.39436000000001,-23.59825,0 -70.39363,-23.59955,0 -70.39292,-23.60075,0 -70.39286,-23.60088,0 -70.39268,-23.60127,0 -70.39247,-23.60191,0 -70.39234999999999,-23.60249,0 -70.39229,-23.60307999999999,0 -70.39228,-23.60339,0 -70.39228,-23.60465,0 -70.39225,-23.60686,0 -70.3922,-23.6083,0 -70.39227,-23.60876,0 -70.39230999999999,-23.60908,0 -70.39230000000001,-23.6097,0 -70.39221000000001,-23.61023,0 -70.39205,-23.61083,0 -70.39202,-23.61109,0 -70.39185000000001,-23.61399,0 -70.39187,-23.61444,0 -70.39190000000001,-23.61466,0 -70.39212000000001,-23.61572,0 -70.39238,-23.61683,0 -70.39242,-23.61713,0 -70.39248000000001,-23.61781,0 -70.39255,-23.61891,0 -70.3926,-23.61937,0 -70.39266000000001,-23.61967,0 -70.39282,-23.62013,0 -70.39303,-23.62057,0 -70.39362,-23.6215,0 -70.39492,-23.62348,0 -70.39610999999999,-23.62528,0 -70.39631,-23.6257,0 -70.39646,-23.62607,0 -70.39651000000001,-23.62625,0 -70.39645,-23.62757,0 -70.39642000000001,-23.62857,0 -70.39641,-23.62867,0 -70.3963,-23.62866,0 -70.39597999999999,-23.62868,0 -70.39524,-23.62866,0 -70.39412,-23.62862,0 -70.39411,-23.62886,0 -70.39406,-23.63006,0 -70.39394,-23.63255,0 -70.39371,-23.63632,0 -70.39363,-23.63751,0 -70.39357,-23.6383,0 -70.39351000000001,-23.63875,0 -70.39346,-23.63921,0 -70.39344,-23.63957,0 -70.39348,-23.64049,0 -70.39354,-23.64136,0 -70.39364,-23.64227,0 -70.39369000000001,-23.64288,0 -70.39344,-23.64313,0 -70.39324999999999,-23.64334,0 -70.39299,-23.64367,0 -70.39278,-23.64405,0 -70.39268,-23.6443,0 -70.39258,-23.64468,0 -70.39255,-23.64472,0 -70.39252999999999,-23.64474,0 -70.39247,-23.64499,0 -70.39241,-23.64543,0 -70.39254,-23.64633,0 -70.3926,-23.64645,0 -70.39283,-23.64783,0 -70.39296,-23.64865,0 -70.39303,-23.64925,0 -70.39304,-23.6509,0 -70.39305,-23.65114,0 -70.39308,-23.65132,0 -70.39319999999999,-23.65168,0 -70.39342000000001,-23.65204,0 -70.39407,-23.65307,0 
+				</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ruta P1_ruta_2-0</name>
+        <visibility>1</visibility>
+        <description>Tramo 7</description>
+        <styleUrl>#line-FF0000-40004</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+					-70.39407,-23.65307,0 -70.39476000000001,-23.65419,0 -70.39505,-23.65474,0 -70.39556,-23.65592,0 -70.39579000000001,-23.65647,0 -70.39601999999999,-23.65699,0 -70.3961,-23.65714,0 -70.39615999999999,-23.65738,0 -70.39618,-23.65749,0 
+				</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ruta P1_ruta_2-0</name>
+        <visibility>1</visibility>
+        <description>Tramo 8</description>
+        <styleUrl>#line-FF0000-40004</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+					-70.39618,-23.65749,0 -70.3963,-23.65869,0 -70.39632,-23.65907,0 -70.39641,-23.66028,0 
+				</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ruta P1_ruta_2-0</name>
+        <visibility>1</visibility>
+        <description>Tramo 9</description>
+        <styleUrl>#line-FF0000-40004</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+					-70.39641,-23.66028,0 -70.39648,-23.66108,0 -70.39655999999999,-23.66149,0 -70.39717,-23.6628,0 -70.39755,-23.66362,0 -70.39766,-23.66382,0 -70.3984,-23.6649,0 -70.39865,-23.66528,0 -70.39876,-23.66553,0 -70.39891,-23.66578,0 -70.39897999999999,-23.66599,0 -70.39901,-23.66624,0 -70.39896,-23.6668,0 -70.39891,-23.66734,0 -70.39894,-23.66763,0 -70.39896,-23.66804,0 -70.399,-23.66827,0 -70.39917,-23.66896,0 -70.39933000000001,-23.66942999999999,0 -70.3994,-23.66962,0 -70.3995,-23.66979,0 -70.39964000000001,-23.67012,0 -70.39986,-23.67061,0 -70.40043,-23.67174,0 -70.40061,-23.67207,0 -70.40078,-23.67237,0 -70.40098999999999,-23.67268,0 -70.40152999999999,-23.67325,0 -70.402,-23.67378,0 -70.40261,-23.67452,0 -70.40379,-23.67577,0 -70.40438,-23.67642,0 -70.40443999999999,-23.67648,0 -70.40455,-23.6767,0 -70.4049,-23.67728,0 -70.40516,-23.67759,0 -70.40544,-23.67789,0 -70.40582999999999,-23.67832,0 -70.40604,-23.67862,0 -70.40622999999999,-23.67899,0 -70.40653,-23.67963,0 -70.40662,-23.67978,0 -70.40689,-23.68007,0 -70.40718,-23.68033,0 -70.4081,-23.6812,0 -70.40837000000001,-23.68146,0 -70.40872,-23.68184,0 -70.40944,-23.68256,0 -70.40951,-23.68265,0 -70.40958000000001,-23.68278,0 -70.40964,-23.68298,0 -70.40967000000001,-23.68323,0 -70.40967000000001,-23.68432,0 -70.40967000000001,-23.68456,0 -70.4097,-23.68481,0 -70.40992,-23.68551,0 -70.40997,-23.68563,0 -70.41002,-23.68596000000001,0 -70.4101,-23.68772,0 -70.41016,-23.68894,0 -70.41019,-23.690671,0 -70.410296,-23.693936,0 
+				</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Coviefi</name>
+        <visibility>1</visibility>
+        <description>Coviefi</description>
+        <styleUrl>#line-FF0000-40004</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+					-70.410253,-23.694142,0 -70.409148,-23.694149,0 -70.409138,-23.693713,0 -70.409088,-23.693248,0 -70.40878499999999,-23.692464,0 -70.40796400000001,-23.692616,0 -70.407523,-23.692586,0 -70.406233,-23.692428,0 -70.405962,-23.692166,0 -70.40581899999999,-23.691767,0 -70.405834,-23.69085,0 -70.406037,-23.690326,0 -70.40652900000001,-23.689567,0 -70.407056,-23.689198,0 -70.40759,-23.689021,0 -70.407881,-23.690346,0 -70.408134,-23.691479,0 -70.408197,-23.691744,0 -70.408264,-23.692119,0 -70.408367,-23.692573,0 -70.409251,-23.692412,0 -70.410011,-23.692398,0 -70.410166,-23.694969,0 -70.409238,-23.695015,0 -70.409086,-23.695077,0 -70.40917,-23.69531,0 -70.409252,-23.696395,0 -70.40926399999999,-23.696589,0 -70.4093,-23.69689,0 -70.409291,-23.697231,0 -70.40947300000001,-23.697482,0 -70.409741,-23.697673,0 -70.410886,-23.697623,0 -70.411114,-23.697425,0 -70.410653,-23.696801,0 -70.41042899999999,-23.696039,0 -70.410296,-23.693936,0 
+				</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ruta P1_ruta_2-0</name>
+        <visibility>1</visibility>
+        <description>Tramo 11</description>
+        <styleUrl>#line-FF0000-40004</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+					-70.410257,-23.694137,0 -70.41037,-23.69592,0 -70.41037,-23.6961,0 -70.41039000000001,-23.69636,0 -70.41045,-23.69653,0 -70.41055,-23.69673,0 -70.41070999999999,-23.69696,0 -70.41113,-23.69742,0 -70.4115,-23.69775,0 -70.41195,-23.69816,0 -70.41217,-23.69842,0 -70.41225,-23.69867,0 -70.41231999999999,-23.69921,0 -70.41228,-23.69971,0 -70.41228,-23.70004,0 -70.41224,-23.70047,0 -70.41233,-23.70067,0 -70.41246,-23.70081,0 -70.41255,-23.70087,0 -70.4127,-23.70089,0 -70.41288,-23.70087,0 -70.41304,-23.70079,0 -70.41313,-23.70071,0 -70.41316,-23.70065,0 -70.41319,-23.7005,0 -70.41319,-23.7003,0 -70.4132,-23.69996,0 -70.41336,-23.69984,0 -70.41372,-23.69983,0 -70.41413,-23.6998,0 -70.41482999999999,-23.6997,0 -70.41579,-23.69951,0 -70.41587,-23.69949,0 -70.41721,-23.6992,0 -70.41754,-23.69913,0 -70.41793,-23.69895,0 -70.41799,-23.69892,0 -70.41786,-23.69871,0 -70.4177,-23.69841,0 -70.41767,-23.69837,0 
+				</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
